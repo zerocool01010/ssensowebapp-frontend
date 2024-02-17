@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Branchname convention and git workflow
+
+In this project, we will use:
+
+feature_nameOfTheFeature (to develop new features)
+bugfix_descriptionOfTheBugTOFix (to solve or fix specific bugs or hotfixes)
+
+All branches will be merged to master (a develop branch) through out pull request with pair-collaborator approval!
+Finally, for deployments on production ambience we'll use main branch
+
 ## Available Scripts
 
 In the project directory, you can run:
