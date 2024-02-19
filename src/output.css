@@ -576,14 +576,13 @@ video {
   padding: 0.25rem;
 }
 
-.px-6 {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
 .px-10 {
   padding-left: 2.5rem;
   padding-right: 2.5rem;
+}
+
+.font-inkAnt {
+  font-family: Inknut Antiqua;
 }
 
 .text-lg {

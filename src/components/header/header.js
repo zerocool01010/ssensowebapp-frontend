@@ -9,10 +9,10 @@ const Header = () => {
         <img src={logo} className='w-[109px] h-[50px]' alt="Logo" />
       </Link>
       <div className='w-full flex flex-row justify-between px-10'>
-        <div className='text-black text-lg capitalize'>prefecturas</div>
-        <div className='text-black text-lg capitalize'>clanes</div>
-        <div className='text-black text-lg capitalize'>historia</div>
-        <div className='text-black text-lg capitalize'>personajes</div>
+        <div className='text-black text-lg capitalize font-inkAnt'>prefecturas</div>
+        <div className='text-black text-lg capitalize font-inkAnt'>clanes</div>
+        <div className='text-black text-lg capitalize font-inkAnt'>historia</div>
+        <div className='text-black text-lg capitalize font-inkAnt'>personajes</div>
       </div>
     </header>
   </>
